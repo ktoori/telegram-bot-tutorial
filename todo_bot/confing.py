@@ -1,0 +1,3 @@
+import base64
+
+TELEGRAM_TOKEN = '7067269617:AAHIzbaVOLdfOKHGRjuBrfkzo2PYy7SkEGA'
