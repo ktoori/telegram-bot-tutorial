@@ -357,4 +357,6 @@ dmypy.json
 cython_debug/
 
 
-todo_bot.confing/
+todo_bot/confing/
+
+.idea
